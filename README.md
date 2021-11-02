@@ -6,3 +6,4 @@ Repositori ini dibangun mengikuti tahap demi tahap pada tutorial.
 
 Baris baru untuk belajar edit di github
 baris baru untuk mencoba git pull
+Baris ini untuk mengenal github
